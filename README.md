@@ -123,7 +123,7 @@ By establishing the Akku_v2, you are deemed to have accepted these responsibilit
     
   [![Akkuv4](https://github.com/Akkuv4.png?size=100)](https://github.com/Akkuv4) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Ameer Suhail](https://github.com/Akkuv4) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[AKKU](https://github.com/Akkuv4) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
